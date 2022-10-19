@@ -10,3 +10,5 @@ learnings about github and licences
 1.
 2.
 3.
+
+thank you
